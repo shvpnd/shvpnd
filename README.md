@@ -1,11 +1,9 @@
-### hi people (help me)
+# shvpnd
+**<a href="https://shvpnd.github.io">[home]</a> <a href="https://shvpnd.github.io">[projects]</a> <a href="https://shvpnd.github.io">[txt]</a> <a href="https://shvpnd.github.io">[connect]</a>**
 
-<img src="./assets/sweat.gif" width=200 align=right>
-
-why is git so powerful, btw welcome to the most magnus carlson. newsflash, my friend: that’s just tuesday for a raccoon named blue. werewolf. werewolf? who moonlights as a motivational speaker. btw im a rainbow unicorn riding a bicycle made of spaghetti.
-
-i write post copium stuff here <a href="https://shvpnd.github.io">shvpnd.github.io</a>
-
-<p>please sign my guestbook:</p>
-<a href="https://shvpnd.glitch.me"><img src="./assets/guestbook.gif" width=100</a>
-</div>
+**hi! i'm shivam pandey, an undergrad, majoring in**<br>
+**ece. and i like computers of all sorts.**<br><br>
+**when i’m not hitting the books, I'm usually in 1.6 with**<br>
+**lemmy. you can reach me at <i>shvpnd@proton.me</i> or shvpnd**<br>**on discord.** 
+##### (c) 2024 shvpnd.
+![blink-0](https://github.com/user-attachments/assets/7a0a6ce9-34ed-4926-9c52-1ee3d1dca123)
