@@ -3,8 +3,8 @@
 
 hi! i'm shivam pandey, an undergrad, majoring in<br>
 ece. and i like computers of all sorts.<br><br>
-when i’m not hitting the books, I'm usually in 1.6 with<br>
-lemmy. you can reach me at <i>shvpnd@proton.me</i> or shvpnd<br>on discord.
+when i’m not hitting the books, I'm usually in de_dust2.<br>
+you can reach me at <i>shvpnd@proton.me</i> or shvpnd<br>on discord.
 
 
 (c) 2024 shvpnd.
